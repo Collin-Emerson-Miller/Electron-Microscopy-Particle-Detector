@@ -1,1 +1,7 @@
-Particle-Detector/detection/data/*
+Particle-Detector/detection/data/
+
+Particle-Detector/learnedwatershed/models/
+
+Particle-Detector/data/
+
+Particle-Detector/models/
